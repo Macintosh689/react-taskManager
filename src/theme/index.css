@@ -1,0 +1,21 @@
+@import url("../theme/fonts.css");
+@import url("../theme/null.css");
+
+body {
+  background-color: #f9f9f9;
+}
+header {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1405px;
+  margin: 0 auto;
+}
+
+.columns {
+  display: flex;
+  gap: 15px;
+  padding: 20px;
+  justify-content: center;
+}
